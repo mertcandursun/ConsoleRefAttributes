@@ -1,0 +1,7 @@
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\bin\Debug\ConsoleRefAtt.exe.config
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\bin\Debug\ConsoleRefAtt.exe
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\bin\Debug\ConsoleRefAtt.pdb
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\obj\Debug\ConsoleRefAtt.csprojAssemblyReference.cache
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\obj\Debug\ConsoleRefAtt.csproj.CoreCompileInputs.cache
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\obj\Debug\ConsoleRefAtt.exe
+C:\Users\Mert\source\repos\Csharp4\ConsoleRefAtt\obj\Debug\ConsoleRefAtt.pdb
